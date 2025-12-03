@@ -1,0 +1,20 @@
+{
+  "numero": "FAC-2024-001",
+  "date": "24 novembre 2025",
+  "client": {
+    "nom": "",
+    "adresse": "",
+    "contact": ""
+  },
+  "items": [
+    {
+      "libelle": "",
+      "quantite": 0,
+      "prixUnitaire": 0,
+      "prixTotal": 0
+    }
+  ],
+  "mainOeuvre": 0,
+  "totalMateriaux": 0,
+  "totalAPayer": 0
+}

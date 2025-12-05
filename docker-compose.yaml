@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  web:
+    image: nginx:alpine
+    container_name: my_web_app
+    volumes:
+      - https://github.com/dieuveilmikengue/carte/
+    ports:
+      - "80:80"
